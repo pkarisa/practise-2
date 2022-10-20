@@ -1,0 +1,7 @@
+{
+    "prettier.useEditorConfig": true,
+    "terminal.integrated.shellIntegration.history": 0,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "prettier.withNodeModules": false,
+    "prettier.resolveGlobalModules": true
+}
